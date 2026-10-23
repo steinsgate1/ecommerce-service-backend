@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets
+.env
+
+# IDE
+.idea/
+
+# Node / frontend
+customer-service-frontend/node_modules/
+customer-service-frontend/dist/
+
+# OS
+Thumbs.db
+.DS_Store
